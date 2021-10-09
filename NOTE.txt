@@ -1,0 +1,87 @@
+[HỖ TRỢ TRUYỀN THÔNG] - CodeGym 
+LỘ TRÌNH TỪ ZERO -  TRỞ THÀNH FRONT END CHUYÊN NGHIỆP
+Lập trình viên Web Front End là nghề với mức lương cao và nhiều cơ hội phát triển, không bị biến động ảnh hưởng bởi đại dịch. Với mức lương khởi điểm lên tới 8 chữ số, và dao động trung bình 15 – 30 triệu đồng mỗi tháng, với người có kinh nghiệm từ 1-2 năm. Đây là nghề nghiệp xứng đáng để các thử sức.
+Sự kiện “LỘ TRÌNH TỪ ZERO -  TRỞ THÀNH FRONT END CHUYÊN NGHIỆP” do diễn giả là anh LÊ TRỌNG ĐẠT - anh có trên 7 năm kinh nghiệm lập trình Front End, Front end developer cho các dự án lớn, nhỏ về Web trong các lĩnh vực về y tế, giáo dục, tài chính,...sẽ giải đáp toàn bộ các thông tin về cơ hội nghề nghiệp này: 
+- Lập trình Front-end là gì?
+- Công việc của 1 LTV Front-end
+- cơ hội việc làm, mức lương ra sao?
+- Lộ trình học để trở thành LTV FE từ số 0
+- Cần những tố chất nào để trở thành LTV FE.
+- Nên bắt đầu với Front-end hay back-end......
+Ngoài ra khi tham gia chương trình TẤT CẢ các bạn còn nhận được quà từ BTC:
+Tặng tài liệu khóa học miễn phí “Nhập môn lập trình với JavaScript”
+Tặng tài liệu khóa học miễn phí “HTML/CSS cơ bản cho người mới bắt đầu”
+01 suất học bổng 80% khóa “Xây dựng website với HTML/CSS do CodeGym Online đào tạo”
+Thông tin sự kiện:
+- Thời gian: 20h-21h30, thứ 5, ngày 14/10/2021
+- Hình thức tham gia: trực tuyến qua zoom
+- Link đăng ký tham gia: https://bit.ly/dangkysukienFrontend
+Ai có thể tham gia:
+Sinh viên CNTT có quan tâm tới lĩnh vực nghề Lập trình Front End
+Bất kỳ ai quan tâm và đang tìm kiếm cơ hội việc làm trong lĩnh vực CNTT
+
+
+
+
+❓❓❓ Bạn đang tìm #máy_ép_kính HOT được anh em mobile dùng nhiều nhất phải không ?
+🔜 Em nó đây chứ đâu nữa. Dòng máy #Fiona VL-F10 Pro bản V2 được nhiều anh em yêu thích nhất.
+.
+⁉️ F10 Pro V2 có gì mà lại được anh em chốt nhiều thế.
+✔️- Chi phí quá hợp lý so với chất lượng cũng như tính năng mà em nó mang lại.
+✔️- Có khả năng Ép màn hình Cong Edge, Màn thẳng, Màn iPad.
+✔️- Kết cấu khung máy chắc chắn.
+✔️- Dual xi lanh giúp tăng gấp đôi lực ép không khác gì Turbo xe hơi. 😃
+✔️- Hệ thống nguồn đến từ MeanWell cho chất lượng không thể tuyệt vời hơn.
+✔️- Hệ thống điều áp khí 4V210 cho đường khí mạnh mẽ hơn 4V110
+✔️- Hai điều chỉnh áp lực giúp người dùng thao tác nhanh hơn qua 1 nút gạt.
+💠️- Đặc biệt nhất không thể không nhắc tới hệ điều khiển siêu việt, cực kỳ thông minh được tích góp từ ý kiến người dùng, những lỗi người dùng hay mặc phải.
+🟢-- Tự động phát hiện và cảnh báo lỗi chân không.
+🟢-- Tự động nhắc nhở bảo dưỡng định kỳ thiết bị.
+🟢-- Điều khiển chỉ với 1 chạm trên màn hình hoặc phím cứng.
+🟢-- Có thể tuỳ chỉnh phần mềm theo yêu cầu riêng của khách hàng.
+.
+💠Ngoài ra thì F10 Pro V2 còn vô vàn điều làm bạn phải ngạc nhiên.
+🔜🏠 Hãy đến ngay Số 22 Ngõ 43 Kim Đồng, Giáp Bát, Hoàng Mai, Hà Nội để cùng trải nghiệm.
+☎️ Hotline: 0965.858.678 - 0961.858.678
+🌍 Website: https://gsmsuppliers.com
+.
+Bạn băn khoăn vì bạn ở một tỉnh thành khác, không thể qua trải nghiệm thực tế. Hãy nhấc máy call cho chúng tôi.
+Chúng tôi sẽ cho bạn địa chỉ gần nhất để trải nghiệm.
+
+
+
+CHIA SẺ LỘ TRÌNH HỌC EXPRESSJS BACKEND
+TÌM HIỂU USECASE TRONG DỰ ÁN
+Chào mọi người, lại là mình đây. Ở bài viết trước mình đã chia sẻ lộ trình học DEV fullstack trong 6 tháng nhận được nhiều quan tâm của nhiều bạn nên nay mình sẽ viết chi tiết hơn thực hiện lộ trình đó.
+Link bài viết trước:
+https://nodejs.vn/.../lam-the-nao-co-the-di-lam-tai-cong...
+Đầu tiên vẫn phải là mindset: Nếu các bạn vẫn nghĩ mình chỉ có thể đi làm được khi học năm 4 thì đây chính là rào cản lớn nhất.
+Trong thực tế một lập trình viên phải làm 8h trên công ty chưa kể thời gian OT-ON. Với lượng thời gian làm việc 8-10h trong môi trường làm việc áp lực, chắc chắn sẽ được lên trình nhanh hơn khi mới là sinh viên, đó là lý do các bạn sinh viên thấy đi làm sẽ học được nhiều hơn.
+Các lập trình viên cũng như chúng ta, phải tự tìm hiểu kiến thức trên internet áp dụng vào công việc. Không phải task nào cũng dễ nhằn, k phải task nào cũng đã được học. Nghề lập trình phải đi đôi với việc mày mò, k có gì là ăn sẵn cả. Một thực tập sinh vào công ty thường sẽ qua vài tháng training nghiên cứu rồi mới được join dự án.
+Chính vì lý do đó nếu các bạn sinh viên tự tạo cho mình môi học nghiêm túc như khi đi làm, cùng với lượng thời tương đương (6-8h) thì mình chắc chắn với 6 tháng đủ để các bạn đi làm ngay, miễn sao các bạn luôn phải trong tâm trí học hỏi và nghiêm túc..
+Với các bạn sinh viên vốn thời gian ít hơn thì có thể kéo dài đến 1 năm, quan trọng khi học chúng ta phải nắm chắc kiến thức, tư duy code, không vội vàng nhảy cóc học hết khoá này là đi làm được ngay
+Hôm nay mình chia sẻ thêm nguồn học ExpressJS (backend) với một số bài toán thực tế. Về nội dung khoá học như sau:
+Tổng quan ExpressJS
+Router
+Middleware
+Method: GET, POST, PUT, DELETE
+Authentication and Authorization
+Restful API
+Express Static
+Bài toán phân trang
+CORS
+JWT Token
+OAUTH2 vs passport login FB, GG
+Cách sử dụng FB API
+Giới thiệu Strapi làm blog trong 1 nốt nhạc
+Link Youtube:
+https://www.youtube.com/playlist...
+Lưu ý: Trên đây là một số usecase căn bản mình tổng hợp, khi đi làm sẽ có nhiều bài toán biến dạng theo business dự án, với các bạn mới nên học theo concept, luồng hoạt động và kiến thức cốt lõi để mai sau có thể tuỳ biến theo ý mình. Một khi đã học xong concept việc các bạn học các framework khác sẽ rất nhanh
+Cách học: Học theo concept, luồng hoạt động, hiểu về chức năng dự án cần những gì.
+Tốc độ học 1 ngôn ngữ hay framework phụ thuộc vào kĩ năng đọc docs cũng như kiến thức tích luỹ của mỗi bạn.
+VD: Mình đã biết về concept ReactJS thì khi đọc docs của VueJS với các khái niệm căn bản na ná nhau, học cực nhanh, nên chỉ cần nửa ngày là đọc xong docs đủ để áp dụng với các task căn bản. Tuy nhiên có những task cần kiến thức chuyên sâu, cốt lõi hơn thì chúng ta vẫn cần dành thêm thời gian để tìm hiểu chúng.
+=> học căn bản chỉ đủ dùng ngắn hạn, về lâu dài vẫn phải tìm hiểu thêm về các khái niệm chuyên sâu, mô hình kiến trúc, framework design ..., ecosystem xung quanh
+Vậy sẽ học bằng cách nào, học xong khoá trên các bạn có thể lên diễn đàn để tìm hiểu thêm về các chủ đề mình nói trên các trang medium.com, viblo.asia, kipalog.com, nodejs.vn ...
+Chốt: Để làm chủ được framework chúng ta phải tìm hiểu mọi ngóc ngách các vấn đề và các kiến thức xoay quanh nó. Khác với việc học thêm các khoá học có mentor hướng dẫn trực tiếp để nắn tư duy và tạo môi trường học sát thực tế cho bạn, tự học luôn luôn cần đúng cách, tự tạo môi trường nghiêm túc tập trung, học với video sẵn các bạn nên chắt học kiến thức biến nó thành của mình chứ k nên sao chép 100% để đạt được hiệu quả tốt nhất.
+Chúc các bạn học tập tốt!
+P/S: Mình muốn là đóng góp một phần để giúp cộng đồng phát triển mạnh mẽ hơn, giúp ích được newbie trong ngành. Ở các bài tiếp theo mình sẽ chia sẻ cho mọi người chi tiết kiến thức từng video trong series Express và up thêm một số series về GIT, VueJS, Docker, Nginx, CICD(DevOps). Mọi người đón đọc nhé.
